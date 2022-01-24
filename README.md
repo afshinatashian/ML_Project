@@ -1,2 +1,2 @@
 # ML_Project
-## I put all my Machin Learnin projects in this repo.
+## I put all my Machine Learning projects in this repo.
