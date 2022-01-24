@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/sda3/ML/ML_Project/model.tflearn"
+all_model_checkpoint_paths: "/media/sda3/ML/ML_Project/model.tflearn"
